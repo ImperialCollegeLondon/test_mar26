@@ -12,5 +12,6 @@ for i in range(5): # execute the loop 5 times
 
 #print final velocity
 print('final velocity:', velocity)
+print('this line was added in GitHub')
 
 
